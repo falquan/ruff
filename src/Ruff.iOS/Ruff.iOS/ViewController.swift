@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Ruff.App
+//  Ruff.iOS
 //
 //  Created by Falquan on 2/14/17.
 //  Copyright © 2017 Ruff. All rights reserved.

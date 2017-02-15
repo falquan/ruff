@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Ruff.App
+//  Ruff.iOS
 //
 //  Created by Falquan on 2/14/17.
 //  Copyright © 2017 Ruff. All rights reserved.
@@ -53,7 +53,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
          application to it. This property is optional since there are legitimate
          error conditions that could cause the creation of the store to fail.
         */
-        let container = NSPersistentContainer(name: "Ruff_App")
+        let container = NSPersistentContainer(name: "Ruff_iOS")
         container.loadPersistentStores(completionHandler: { (storeDescription, error) in
             if let error = error as NSError? {
                 // Replace this implementation with code to handle the error appropriately.

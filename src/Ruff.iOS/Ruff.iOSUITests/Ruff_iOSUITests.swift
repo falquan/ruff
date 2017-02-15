@@ -1,6 +1,6 @@
 //
-//  Ruff_AppUITests.swift
-//  Ruff.AppUITests
+//  Ruff_iOSUITests.swift
+//  Ruff.iOSUITests
 //
 //  Created by Falquan on 2/14/17.
 //  Copyright © 2017 Ruff. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class Ruff_AppUITests: XCTestCase {
+class Ruff_iOSUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
